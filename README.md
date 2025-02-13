@@ -17,6 +17,6 @@ Move to the directory which you cloned the repo and run ```uvicorn Endpoints:mai
 
 # How to create docker container?
 Move to the directory which you cloned the repo.</br>
-Then execute ```docker compose up -d ``` in your terminal to build and run the container.</br>
+Then execute ```docker compose up --build ``` in your terminal to build and run the container.</br>
 You can access the API in address 127.0.0.1:8000
 
