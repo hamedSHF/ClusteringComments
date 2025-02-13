@@ -12,4 +12,8 @@ This is implemented by FastAPI.</br>
   - **/uploadFile**: return the result of Clustering in JSON format
      - > ![Screenshot 2025-02-13 125822](https://github.com/user-attachments/assets/4805dd0b-bb53-4b97-b761-1eadd6301fd4)
 
+# How to create docker container?
+Move to the directory which you cloned the repo.</br>
+Then execute ```docker compose up -d ``` in your terminal to build and run the container.</br>
+You can access the API in address 127.0.0.1:8000
 
